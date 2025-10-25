@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#"/>
   <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET" />
-  <img src="https://skillicons.dev/icons?i=phyton&theme=dark" alt="Phyton" />
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Phyton" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server Database"/>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" alt="PostgreSQL" />
